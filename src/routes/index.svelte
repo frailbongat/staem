@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+	import { H1, H2 } from '$components'
+</script>
+
+<H1>STAEM</H1>
+<H2>STAEM</H2>

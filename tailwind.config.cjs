@@ -9,6 +9,10 @@ module.exports = {
 					800: '#1B2837',
 					900: '#17202D'
 				}
+			},
+			fontFamily: {
+				sans: ['Noto Sans'],
+				body: ['Noto Sans']
 			}
 		}
 	},
