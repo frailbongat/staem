@@ -1,2 +1,5 @@
 export { default as H1 } from './typography/h1.svelte'
 export { default as H2 } from './typography/h2.svelte'
+export { default as H3 } from './typography/h3.svelte'
+export { default as Display } from './typography/display.svelte'
+export { default as P } from './typography/p.svelte'
