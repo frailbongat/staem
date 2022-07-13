@@ -1,5 +1,9 @@
+export { default as Card } from './card/card.svelte'
+
 export { default as Button } from './forms/button.svelte'
 export { default as Label } from './forms/label.svelte'
+
+export { default as HR } from './hr/hr.svelte'
 
 export { default as Install } from './icons/install.svelte'
 export { default as Loading } from './icons/loading.svelte'
